@@ -19,6 +19,7 @@ public class HelloApplication extends Application {
     @Override
     public void start(Stage stage) {
         // Criar rótulos
+        //Teste
         Label nameLabel = new Label("Name:");
         Label lastNameLabel = new Label("Last Name:");
         Label emailLabel = new Label("Email:");
